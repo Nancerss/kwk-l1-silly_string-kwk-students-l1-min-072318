@@ -24,9 +24,10 @@ puts "#{lowercased_phrase}"
 
 big_word = "supercalifragilisticexpialidocious"
 
-letter_count = big_word # Put a . after big_word and use a String method. 
+letter_count = big_word.length
+# Put a . after big_word and use a String method. 
 
-puts "There are #{34} in #{big_word}"
+puts "letter_count"
 
 # Challenge 5: Add "wow" and "mom" to big_word
 
