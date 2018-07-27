@@ -20,6 +20,7 @@ lowercased_phrase = phrase.downcase
 
 puts "#{lowercased_phrase}"
 
+
 # Challenge 4: Count how many letters are in that big_word
 
 big_word = "supercalifragilisticexpialidocious"
@@ -28,6 +29,7 @@ letter_count = big_word.length
 # Put a . after big_word and use a String method. 
 
 puts "#{letter_count}"
+
 
 # Challenge 5: Add "wow" and "mom" to big_word
 
