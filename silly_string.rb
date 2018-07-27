@@ -42,7 +42,7 @@ puts "There are now #{new_letter_count} letters in #{bigger_word}"
 proper_sentence = "i really like programming.".capitalize
 # Put a . after the string to capitalize it properly.
 
-puts proper_sentence
+puts "proper_sentence"
 
 # Challenge 7: String Switcheroo
 sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
